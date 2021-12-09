@@ -1,7 +1,7 @@
 ### <p>👩🏾 Olá, eu sou a Karen Emerenciano!
 
 <p>🎓 Formada em Gestão de Tecnologia da Informação</p>
-<p>📚 Estudando HTML, CSS, JavaScript e Python </p>
+<p>📚 Áreas de Estudo: Front-End e Data Science </p>
 <p>💻🦟Analista de Testes II</p>
 <p>😍 Apaixonada por programação</p>
 
