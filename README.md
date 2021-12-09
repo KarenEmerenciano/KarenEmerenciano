@@ -1,7 +1,7 @@
 ### <p>👩🏾 Olá, Seja Bem Vindx!</p>
 
 
-<h1><p> Quem sou eu</h1></p>
+<h2><center> Quem sou eu ? </h12></center>
 <p>🎓 Formada em Gestão de Tecnologia da Informação</p>
 <p>📚 Áreas de Estudo: Front-End e Data Science </p>
 <p>💻🦟Analista de Testes II</p>
