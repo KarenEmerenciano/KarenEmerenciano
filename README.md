@@ -4,8 +4,8 @@
 <h3><p> Quem sou eu ? </h3></p>
 
 <p>🎓 Formada em Gestão de Tecnologia da Informação</p>
-<p>📚 Áreas de Estudo: Front-End e Data Science </p>
-<p>💻🦟Analista de Testes II</p>
+<p>📚 Áreas de Estudo: Front-End, Ciência e Engenharia de Dados </p>
+<p>💻🦟Analista de Testes </p>
 <p>😍 Apaixonada por programação</p>
 
 ##
