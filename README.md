@@ -1,4 +1,4 @@
-### <p>👩🏾 Olá, Seja Bem Vindx!</p>
+### <p>👩🏾 Olá! Seja Bem Vindx!</p>
 
 
 <h3><p> Quem sou eu ? </h3></p>
