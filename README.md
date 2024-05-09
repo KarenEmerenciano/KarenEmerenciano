@@ -3,7 +3,7 @@
 
 <h3><p> Quem sou eu ? </h3></p>
 
-<p>🎓 Cursando Pós Graduação em Desenvolvimento Wrb</p>
+<p>🎓 Cursando Pós Graduação em Desenvolvimento Web</p>
 <p>🎓 Formada em Gestão de Tecnologia da Informação</p>
 <p>📚 Áreas de Estudo: Enegnharia de Software, Qualidade de Software e Front-End </p>
 <p>💻🦟Analista de Testes </p>
