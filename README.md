@@ -1,12 +1,12 @@
-### <p>👩🏾 Olá! Seja Bem Vindx!</p>
+### <p>👩🏾 Hello! Welcome!</p>
 
 
-<h3><p> Quem sou eu ? </h3></p>
+<h3><p> Who am I ? </h3></p>
 
-<p>🎓 Cursando Pós Graduação em Desenvolvimento Web</p>
-<p>🎓 Formada em Gestão de Tecnologia da Informação</p>
-<p>📚 Áreas de Estudo: Enegnharia de Software, Qualidade de Software e Front-End </p>
-<p>💻🦟Analista de Testes </p>
+<p>🎓 Studying postgraduate degree in Web Development</p>
+<p>🎓 Graduated in IT management</p>
+<p>📚 Study Areas: Software Engineer, Software Quality and FrontEnd Development </p>
+<p>💻🦟 Test Analyst</p>
 
 
 ##
